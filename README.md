@@ -1,0 +1,2 @@
+# SeleniumAutomationRepo
+Project from Obsqura
