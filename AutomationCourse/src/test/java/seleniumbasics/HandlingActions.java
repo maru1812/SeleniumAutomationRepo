@@ -12,7 +12,7 @@ public class HandlingActions extends Base {
 
 	public void verifyRightClick() {
 		WebElement others = driver.findElement(By.id("others"));
-		Actions action = new Actions(driver); //aCTION IS A CLASS
+		Actions action = new Actions(driver); //aCTION IS A CLASS NOW
 		action.contextClick(others).build().perform();   //rightclick always use build and perform to any action
 	}
 	
