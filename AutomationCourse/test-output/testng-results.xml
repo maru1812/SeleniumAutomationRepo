@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T21:52:10 EDT" name="Default suite" finished-at="2026-03-10T21:52:20 EDT" duration-ms="10860">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T21:52:10 EDT" name="Default test" finished-at="2026-03-10T21:52:20 EDT" duration-ms="10860">
+      <class name="testScript.LoginTest">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:10 EDT" name="browserLaunch" finished-at="2026-03-10T21:52:12 EDT" duration-ms="2625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="verifyInvalidCredentials()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:12 EDT" name="verifyInvalidCredentials" finished-at="2026-03-10T21:52:13 EDT" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidCredentials -->
+        <test-method is-config="true" signature="quitAndClose()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:13 EDT" name="quitAndClose" finished-at="2026-03-10T21:52:13 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitAndClose -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:13 EDT" name="browserLaunch" finished-at="2026-03-10T21:52:15 EDT" duration-ms="1978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="verifyInvalidUsernameValidPassword()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:15 EDT" name="verifyInvalidUsernameValidPassword" finished-at="2026-03-10T21:52:15 EDT" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidUsernameValidPassword -->
+        <test-method is-config="true" signature="quitAndClose()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:15 EDT" name="quitAndClose" finished-at="2026-03-10T21:52:15 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitAndClose -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:15 EDT" name="browserLaunch" finished-at="2026-03-10T21:52:18 EDT" duration-ms="2387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="verifyUserLoginWithValidCreds()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:18 EDT" name="verifyUserLoginWithValidCreds" finished-at="2026-03-10T21:52:18 EDT" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginWithValidCreds -->
+        <test-method is-config="true" signature="quitAndClose()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:18 EDT" name="quitAndClose" finished-at="2026-03-10T21:52:18 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitAndClose -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:18 EDT" name="browserLaunch" finished-at="2026-03-10T21:52:20 EDT" duration-ms="1986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="verifyValidUsernameInvalidPassword()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:20 EDT" name="verifyValidUsernameInvalidPassword" finished-at="2026-03-10T21:52:20 EDT" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidUsernameInvalidPassword -->
+        <test-method is-config="true" signature="quitAndClose()[pri:0, instance:testScript.LoginTest@747ddf94]" started-at="2026-03-10T21:52:20 EDT" name="quitAndClose" finished-at="2026-03-10T21:52:20 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitAndClose -->
+      </class> <!-- testScript.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
