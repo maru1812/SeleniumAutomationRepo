@@ -21,6 +21,8 @@ public class Base {
 
 		Base base = new Base();
 		base.browserLaunch();
+		System.out.println("atest");
+
 		base.quitAndClose();
 	}
 
